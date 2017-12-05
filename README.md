@@ -1,5 +1,8 @@
-SEO Pro for WordPress
+## What is SEO Pro for WordPress?
 
+SEO Pro for WordPress is probably the best or friendly seo plugin in the world.
+
+## Why to install?
 Use WP SEO Pro to truly optimize and increase visibility for your WordPress and WooCommerce site for SEO.
 
 ## Why use WP SEO Pro?
