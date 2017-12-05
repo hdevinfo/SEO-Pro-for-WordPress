@@ -1,4 +1,4 @@
-#SEO Pro for WordPress
+SEO Pro for WordPress
 
 Use WP SEO Pro to truly optimize and increase visibility for your WordPress and WooCommerce site for SEO.
 
